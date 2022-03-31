@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Beer-Finder---Punk-Api---React/static/css/main.afa1b333.css",
-    "main.js": "/Beer-Finder---Punk-Api---React/static/js/main.6f2708d0.js",
+    "main.css": "/Beer-Finder---Punk-Api---React/static/css/main.ade3f77c.css",
+    "main.js": "/Beer-Finder---Punk-Api---React/static/js/main.c2ffe81d.js",
     "static/media/BrewDog-logo.jpg": "/Beer-Finder---Punk-Api---React/static/media/BrewDog-logo.d57507b05b6b88ff784f.jpg",
     "index.html": "/Beer-Finder---Punk-Api---React/index.html",
-    "main.afa1b333.css.map": "/Beer-Finder---Punk-Api---React/static/css/main.afa1b333.css.map",
-    "main.6f2708d0.js.map": "/Beer-Finder---Punk-Api---React/static/js/main.6f2708d0.js.map"
+    "main.ade3f77c.css.map": "/Beer-Finder---Punk-Api---React/static/css/main.ade3f77c.css.map",
+    "main.c2ffe81d.js.map": "/Beer-Finder---Punk-Api---React/static/js/main.c2ffe81d.js.map"
   },
   "entrypoints": [
-    "static/css/main.afa1b333.css",
-    "static/js/main.6f2708d0.js"
+    "static/css/main.ade3f77c.css",
+    "static/js/main.c2ffe81d.js"
   ]
 }
